@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://source.unsplash.com/1200x400/?technology,code](https://github.com/gunawan885/assets/blob/main/WALL.png)" alt="Banner Image">
+  <img src="https://github.com/gunawan885/assets/blob/main/WALL.png" alt="Banner Image">
 </p>
 
 <h1 align="center">Hi there, I'm Gunawan 👋</h1>
