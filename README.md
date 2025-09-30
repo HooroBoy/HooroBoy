@@ -5,14 +5,14 @@
 
 <h1 align="center">Hi there, I'm Gunawan 👋</h1>
 <p align="center">
-  🎮 game development Enthusiast | 🔒 Cybersecurity Enthusiast
+  🎮 game development Enthusiast | 📈 Data Science Enthusiast
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎯 Passionate about software development, game design, and cybersecurity.
-- 🌱 Currently learning **Java, Unity, and Cybersecurity**.
+- 🎯 Passionate about software development, game design, Pixel Art, and Data Science.
+- 🌱 Currently learning **Java, Unity, and Python**.
 - 🔍 Exploring new technologies and improving problem-solving skills.
 
 ---
