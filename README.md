@@ -36,8 +36,8 @@
 ---
 ## s🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/horoboy/lemonidle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooroboy&repo=my-2d-fantasy-game&theme=tokyonight" />
+  <a href="https://github.com/hooroboy/lemonidle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooroboy&repo=lemonidle&theme=tokyonight" />
   </a>
   <a href="https://github.com/horoboy/pixel-art-tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=horoboy&repo=pixel-art-tool&theme=tokyonight" />
