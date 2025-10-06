@@ -34,7 +34,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horoboy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hooroboy&show_icons=true&theme=tokyonight)
 
 ---
 
