@@ -39,8 +39,8 @@
   <a href="https://github.com/hooroboy/lemonidle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooroboy&repo=lemonidle&theme=tokyonight" />
   </a>
-  <a href="https://github.com/horoboy/pixel-art-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=horoboy&repo=pixel-art-tool&theme=tokyonight" />
+  <a href="https://github.com/hooroboy/topdownshooter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooroboy&repo=topdownshooter&theme=tokyonight" />
   </a>
 </p>
 
