@@ -34,7 +34,7 @@
 - 🔐 **[Project Name 3](#)** - Brief description.
 
 ---
-## s🌟 Featured Projects
+### 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/hooroboy/lemonidle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooroboy&repo=lemonidle&theme=tokyonight" />
