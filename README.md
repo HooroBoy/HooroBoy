@@ -18,7 +18,6 @@
 ---
 
 ### 🛠 Tech Stack
-<h2 align="center">🧠 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
