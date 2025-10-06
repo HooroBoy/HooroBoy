@@ -34,9 +34,9 @@
 - 🔐 **[Project Name 3](#)** - Brief description.
 
 ---
-
+## s🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/horoboy/my-2d-fantasy-game">
+  <a href="https://github.com/horoboy/lemonidle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=horoboy&repo=my-2d-fantasy-game&theme=tokyonight" />
   </a>
   <a href="https://github.com/horoboy/pixel-art-tool">
