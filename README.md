@@ -53,7 +53,6 @@
 ---
 
 ### 📫 Contact Me
-<h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/gunawanwi/" target="_blank">
