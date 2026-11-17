@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/skyline.svg" alt="" width="100%">
+</p>
+
+<p align="center">
   <a href="https://horoboy.my.id"><img src="https://img.shields.io/badge/WEBSITE-ff3e14?style=flat-square&logo=astro&logoColor=ffffff" alt="Website"></a>
   <a href="https://horoboy.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-2c1e0c?style=flat-square&logo=itchdotio&logoColor=d9c8ab" alt="Itch.io"></a>
   <a href="https://www.linkedin.com/in/gunawanwi/"><img src="https://img.shields.io/badge/LINKEDIN-2c1e0c?style=flat-square&logo=linkedin&logoColor=d9c8ab" alt="LinkedIn"></a>
@@ -78,9 +82,9 @@ design, and the code that holds it together.
 
 | Role | Period | What I do |
 | :--- | :---: | :--- |
-| **Project Manager** | 2026 — Now | Managing game projects so they hit the quality bar, and keeping the team in shape to finish every task the studio hands over |
-| **Level Designer** | 2026 — Now | Blockouts, pacing and encounter design — building and tuning levels in Unity from first sketch to ship, driven by playtests |
-| **2D Pixel Artist** | 2025 — Now | Creating pixel assets and implementing them ready-to-use in the studio production pipeline |
+| **Project Manager** | 2026&nbsp;—&nbsp;Now | Managing game projects so they hit the quality bar, and keeping the team in shape to finish every task the studio hands over |
+| **Level Designer** | 2026&nbsp;—&nbsp;Now | Blockouts, pacing and encounter design — building and tuning levels in Unity from first sketch to ship, driven by playtests |
+| **2D Pixel Artist** | 2025&nbsp;—&nbsp;Now | Creating pixel assets and implementing them ready-to-use in the studio production pipeline |
 
 **Polinema** — Bachelor of Applied Informatics Engineering · 2024 — Now
 
@@ -95,7 +99,7 @@ and collaborative game projects — programming fundamentals, Unity, interface d
   <img src="https://img.shields.io/github/followers/HooroBoy?style=flat-square&labelColor=2c1e0c&color=ff3e14&label=followers" alt="Followers">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHooroBoy&query=%24.public_repos&label=repos&style=flat-square&labelColor=2c1e0c&color=ff3e14" alt="Public repos">
   <img src="https://img.shields.io/github/stars/HooroBoy?affiliations=OWNER&style=flat-square&labelColor=2c1e0c&color=ff3e14" alt="Stars">
-  <img src="https://img.shields.io/github/last-commit/HooroBoy/HooroBoy?style=flat-square&labelColor=2c1e0c&color=d9c8ab&label=last%20update" alt="Last update">
+  <img src="https://img.shields.io/github/last-commit/HooroBoy/HooroBoy?style=flat-square&labelColor=2c1e0c&color=ff3e14&label=last%20update" alt="Last update">
 </p>
 
 Most of my work lives in class and private repositories, so the contribution graph says more than
@@ -113,6 +117,3 @@ the public repo count.
   <a href="https://www.instagram.com/horo_cope/"><img src="https://img.shields.io/badge/INSTAGRAM-2c1e0c?style=flat-square&logo=instagram&logoColor=d9c8ab" alt="Instagram"></a>
 </p>
 
-<p align="center">
-  <img src="./assets/skyline.svg" alt="" width="100%">
-</p>
