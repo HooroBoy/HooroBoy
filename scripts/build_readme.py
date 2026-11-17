@@ -384,17 +384,17 @@ def build_marquee() -> None:
 
 
 def build_heading(name: str, label: str, title: str, sub: str = "") -> None:
-    h = 108 if sub else 86
-    b = []
-    bd, bw = badge(4, 6, label, 12)
+    h = 124 if sub else 100
+    b = [card(4, 4, W - 14, h - 14, BG, TEXT, TEXT, 3, 5)]
+    bd, bw = badge(30, 24, label, 12)
     b.append(bd)
-    b.append(text(title, 4, 74, 32, TEXT, 0.8))
+    b.append(text(title, 30, 88, 32, TEXT, 0.8))
     if sub:
-        b.append(text(sub, 4, 100, 12, MUTED))
+        b.append(text(sub, 30, 110, 12, MUTED))
     save(name, svg(W, h, "".join(b), title))
 
 
-CARD_W = 276
+CARD_W = 256
 GAP = 7  # baked-in whitespace so inline <img>s keep their distance
 
 
@@ -499,7 +499,7 @@ def build_button(name: str, label: str, primary: bool = False, width: int | None
 
 def build_skyline() -> None:
     w, h = W, 58
-    b = [rect(0, 0, w, h, "none")]
+    b = [rect(0, 0, w, h, BG)]
     # deterministic pseudo-random skyline
     seed = 1337
     x = 0
