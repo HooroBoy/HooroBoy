@@ -522,16 +522,6 @@ def build_skyline() -> None:
     save("skyline.svg", svg(w, h, "".join(b), "Skyline"))
 
 
-def _unused_banner() -> None:
-    """Small 'posted 2026' style footer strip."""
-    w, h = W, 46
-    b = [rect(0, 0, w, h, BAND_BG)]
-    b.append(text("CODES, ARTS, & DESIGN.", 18, 29, 12, BAND_TEXT, 1.2))
-    b.append(text("HOROBOY.MY.ID", w - 18, 29, 12, ACCENT, 1.2, "end"))
-    save("footer.svg", svg(w, h, "".join(b), "Footer"))
-
-
-
 # --------------------------------------------------------------------------
 # live GitHub stats (self-hosted: no third-party card service)
 # --------------------------------------------------------------------------
@@ -563,7 +553,8 @@ def fetch_stats() -> dict:
             break
         page += 1
 
-    own = [r for r in repos if not r["fork"]]
+    # skip the profile repo itself: "recently pushed" should list real projects
+    own = [r for r in repos if not r["fork"] and r["name"].lower() != "hooroboy"]
     recent = sorted(own, key=lambda r: r["pushed_at"], reverse=True)[:3]
     return {
         "repos": user["public_repos"],
